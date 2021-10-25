@@ -33,7 +33,7 @@ const RESOURCES = {
 "assets/lib/app/modules/home/assets/images/cupom.png": "4a9ebca9e3daf1d28a79fb3aa05a26dd",
 "assets/lib/app/modules/home/assets/images/entrega_gratis.png": "fbde720663dc38484d22f8af2a1f27e5",
 "assets/lib/app/modules/home/assets/images/iconmarmita.png": "00d6f9ff685f6462445a41dd81c2195a",
-"assets/NOTICES": "480a30f4833cc022b5c990398cd45ea6",
+"assets/NOTICES": "e133a8af289787f8364a4b196c3a26bf",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/flutter_signin_button/assets/logos/2.0x/facebook_new.png": "83bf0093719b2db2b16e2839aee1069f",
 "assets/packages/flutter_signin_button/assets/logos/2.0x/google_dark.png": "937022ea241c167c8ce463d2ef7ed105",
@@ -52,9 +52,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "2904d2ada3f13d1a0df8429e70ffaf19",
-"/": "2904d2ada3f13d1a0df8429e70ffaf19",
-"main.dart.js": "1df12a6347321b7834ee7c90cac69655",
+"index.html": "78f5b580a54bb0204ff30c42eb102e18",
+"/": "78f5b580a54bb0204ff30c42eb102e18",
+"main.dart.js": "97a4b225cce5b8be0a19235eb1d9f9b8",
 "manifest.json": "8966bfc3d9736fb8d53db44dff970a9a",
 "version.json": "f83b2c6e133fa8e65331b3f268859d56"
 };
