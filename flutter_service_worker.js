@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "334f41dab655eb26fbb28fdd725859e2",
+  "assets/AssetManifest.json": "f507af98ce7c413eb418299f436ea92e",
 "assets/assets/images/auth-back.jpg": "c755f534401dc0143308797b4c245c63",
 "assets/assets/images/cards/redbackground.png": "201535fcb7f566cc4acb6c4f396340e8",
 "assets/assets/images/cards/whitebackground.png": "930bd0737793cdae98001644d9e9f146",
@@ -32,7 +32,8 @@ const RESOURCES = {
 "assets/assets/images/logo.png": "fe269fd103fded03d37a751058bda249",
 "assets/assets/images/product_page/lollipop.webp": "422b4416f24ae1ee60996e1656219a7a",
 "assets/assets/images/register/background.png": "2a9f761a083b06408cd032dbce0ab82b",
-"assets/assets/images/register/dragAndDropArea.png": "c90e2e006353d633da8cb46c9d836d52",
+"assets/assets/images/restaurant_home/dragAndDropArea.png": "9d724a783edf2ba19b2204b113130963",
+"assets/assets/images/restaurant_home/editProfile.png": "578a1bdf33b856d168f783dfa7d13726",
 "assets/assets/images/user.png": "0489ed3f9e370945827bfd37c713bbc4",
 "assets/FontManifest.json": "bba7c03735431440dc1ba35100f702bc",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
@@ -41,7 +42,7 @@ const RESOURCES = {
 "assets/lib/app/modules/home/assets/images/cupom.png": "4a9ebca9e3daf1d28a79fb3aa05a26dd",
 "assets/lib/app/modules/home/assets/images/entrega_gratis.png": "fbde720663dc38484d22f8af2a1f27e5",
 "assets/lib/app/modules/home/assets/images/iconmarmita.png": "00d6f9ff685f6462445a41dd81c2195a",
-"assets/NOTICES": "a30a76fa16d9b978e727a1a6876dadc7",
+"assets/NOTICES": "66c70572112f291f30053ffa7e45f7c0",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/flutter_dropzone_web/assets/flutter_dropzone.js": "293130157c75eed869a41f5e53c1b313",
 "assets/packages/flutter_signin_button/assets/logos/2.0x/facebook_new.png": "83bf0093719b2db2b16e2839aee1069f",
@@ -61,9 +62,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "fca3343fd02bf8363eca40e33cdc387c",
-"/": "fca3343fd02bf8363eca40e33cdc387c",
-"main.dart.js": "82f75b19770951a6e01b4def35e02839",
+"index.html": "810884b8d9c97c31111d3cd160189416",
+"/": "810884b8d9c97c31111d3cd160189416",
+"main.dart.js": "8b33e3f325c5ba993ce543a52d947556",
 "manifest.json": "06a31cbd57ad6163ecbac779f5ff33c5",
 "version.json": "f83b2c6e133fa8e65331b3f268859d56"
 };
