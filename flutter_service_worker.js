@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "f507af98ce7c413eb418299f436ea92e",
+  "assets/AssetManifest.json": "2322d25f98cbbaf86583fd739c5309a8",
 "assets/assets/images/auth-back.jpg": "c755f534401dc0143308797b4c245c63",
 "assets/assets/images/cards/redbackground.png": "201535fcb7f566cc4acb6c4f396340e8",
 "assets/assets/images/cards/whitebackground.png": "930bd0737793cdae98001644d9e9f146",
@@ -30,10 +30,15 @@ const RESOURCES = {
 "assets/assets/images/google.png": "f046e11a34bbb4add7db010d02db7e09",
 "assets/assets/images/logo-primary.png": "19a89605874240bae98c1d6819080554",
 "assets/assets/images/logo.png": "fe269fd103fded03d37a751058bda249",
+"assets/assets/images/mc.png": "58431736ee394a167a393f69df24c10d",
 "assets/assets/images/product_page/lollipop.webp": "422b4416f24ae1ee60996e1656219a7a",
 "assets/assets/images/register/background.png": "2a9f761a083b06408cd032dbce0ab82b",
 "assets/assets/images/restaurant_home/dragAndDropArea.png": "9d724a783edf2ba19b2204b113130963",
 "assets/assets/images/restaurant_home/editProfile.png": "578a1bdf33b856d168f783dfa7d13726",
+"assets/assets/images/track_order/gps_fundo.jpg": "821ce61ddbb64a478f791fe2c84af4c4",
+"assets/assets/images/track_order/gps_fundo2.jpg": "6b720e7fec747b01665a6b578c5c1867",
+"assets/assets/images/track_order/gps_img.png": "2700d6cb6dcd57298bc02cdd491ebe5c",
+"assets/assets/images/track_order/gps_img2.jpg": "5df5033714638f51d1c76cb9198aa501",
 "assets/assets/images/user.png": "0489ed3f9e370945827bfd37c713bbc4",
 "assets/FontManifest.json": "bba7c03735431440dc1ba35100f702bc",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
@@ -42,7 +47,7 @@ const RESOURCES = {
 "assets/lib/app/modules/home/assets/images/cupom.png": "4a9ebca9e3daf1d28a79fb3aa05a26dd",
 "assets/lib/app/modules/home/assets/images/entrega_gratis.png": "fbde720663dc38484d22f8af2a1f27e5",
 "assets/lib/app/modules/home/assets/images/iconmarmita.png": "00d6f9ff685f6462445a41dd81c2195a",
-"assets/NOTICES": "66c70572112f291f30053ffa7e45f7c0",
+"assets/NOTICES": "b04fef2c3d12d6a0e546422cd25415b0",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/flutter_dropzone_web/assets/flutter_dropzone.js": "293130157c75eed869a41f5e53c1b313",
 "assets/packages/flutter_signin_button/assets/logos/2.0x/facebook_new.png": "83bf0093719b2db2b16e2839aee1069f",
@@ -62,9 +67,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "810884b8d9c97c31111d3cd160189416",
-"/": "810884b8d9c97c31111d3cd160189416",
-"main.dart.js": "8b33e3f325c5ba993ce543a52d947556",
+"index.html": "07c796e9b2ef6e1ca5a3c5ce42c0431a",
+"/": "07c796e9b2ef6e1ca5a3c5ce42c0431a",
+"main.dart.js": "56dbf1fe6d1b14e291130b93a31436a1",
 "manifest.json": "06a31cbd57ad6163ecbac779f5ff33c5",
 "version.json": "f83b2c6e133fa8e65331b3f268859d56"
 };
